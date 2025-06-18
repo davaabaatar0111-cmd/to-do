@@ -1,0 +1,38 @@
+#To{
+    font-size: 900px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#input{
+    display: flex;
+    height: 50px;
+    width: 500px;
+}
+.writer{
+    display: flex;
+    gap: 10px;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.tom{
+    border-radius: 4px;
+    border-radius: 1px solid grey;
+    width: 400px;
+    height: 600px;
+}
+
+.button{
+    height: 50px;
+    width: 50px;
+}
+
+#no-tasks{
+    display: flex;
+    justify-content: center;
+    font-size: 20px;
+    color: grey;
+}
+ 
